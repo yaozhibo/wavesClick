@@ -1,13 +1,15 @@
-* {
-  font-family: Arial, Helvetica, sans-serif
-}
 
 /*!
  * waves v 1.0
  *
  * Copyright 2019 Wiki Yiod
  */
- .waves-effect {
+
+* {
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.waves-effect {
   position: relative;
   cursor: pointer;
   display: inline-block;
